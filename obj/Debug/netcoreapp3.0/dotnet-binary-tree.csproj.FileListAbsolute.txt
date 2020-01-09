@@ -1,0 +1,11 @@
+C:\sandbox\dotnet-binary-tree\bin\Debug\netcoreapp3.0\dotnet-binary-tree.exe
+C:\sandbox\dotnet-binary-tree\bin\Debug\netcoreapp3.0\dotnet-binary-tree.deps.json
+C:\sandbox\dotnet-binary-tree\bin\Debug\netcoreapp3.0\dotnet-binary-tree.runtimeconfig.json
+C:\sandbox\dotnet-binary-tree\bin\Debug\netcoreapp3.0\dotnet-binary-tree.runtimeconfig.dev.json
+C:\sandbox\dotnet-binary-tree\bin\Debug\netcoreapp3.0\dotnet-binary-tree.dll
+C:\sandbox\dotnet-binary-tree\bin\Debug\netcoreapp3.0\dotnet-binary-tree.pdb
+C:\sandbox\dotnet-binary-tree\obj\Debug\netcoreapp3.0\dotnet-binary-tree.csprojAssemblyReference.cache
+C:\sandbox\dotnet-binary-tree\obj\Debug\netcoreapp3.0\dotnet-binary-tree.AssemblyInfoInputs.cache
+C:\sandbox\dotnet-binary-tree\obj\Debug\netcoreapp3.0\dotnet-binary-tree.AssemblyInfo.cs
+C:\sandbox\dotnet-binary-tree\obj\Debug\netcoreapp3.0\dotnet-binary-tree.dll
+C:\sandbox\dotnet-binary-tree\obj\Debug\netcoreapp3.0\dotnet-binary-tree.pdb
