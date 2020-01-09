@@ -1,5 +1,5 @@
 # dotnet-binary-tree
-BFS and DFS of binary tree using C#
+Breadth-First-Search and Depth-First-Search of binary tree using C#
 
 ## Run this application on your machine.
 To run this application, you must have dotnet installed on your machine.
