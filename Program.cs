@@ -31,11 +31,13 @@ namespace dotnet_binary_tree
         {
             // DFS needs to take results list as argument and then return it
             List<string> results = new List<string>();
+            Console.WriteLine("Depth-first-search traversal of binary tree:");
             DFSTraveral(binaryTree, results).ForEach(i => Console.Write("{0}\t", i)); ;
 
             Console.WriteLine("\n");
 
             // BFS can maintain its own results lsit
+            Console.WriteLine("Breadth-first-search traversal of binary tree:");
             BFSTraveral(binaryTree).ForEach(i => Console.Write("{0}\t", i));
         }
         // Depth-first-search traversal
